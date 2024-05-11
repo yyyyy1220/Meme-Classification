@@ -8,6 +8,7 @@ We then used the finetuned model on the Hateful Memes dataset and categorized th
 **Evaluation**
 ---
 We assessed the performance of our meme classification models using several metrics: Validation Accuracy, Validation Precision, Validation Recall, Validation F1 Score, and Validation AUROC. The models were trained with different configurations: image-only and image + text inputs, and tested with the same configurations to evaluate their effectiveness.
+![result](https://github.com/yyyyy1220/Meme-Classification/blob/main/result2.jpg)
 
 **Results**
 ---
